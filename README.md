@@ -20,6 +20,11 @@
 - Original Dataset is too big so, we preprocessed data and reduced the size of dataset
     - Our Dataset: seodaemunAndmap.csv (72,463KB) (Total number of this dataset: 972799)
     - ![image](https://user-images.githubusercontent.com/76611903/208368643-81ae2c38-07aa-4228-bb05-ca7c1adb7868.png)
+    
+### Models
+- RandomForest and Gradient Boosting (In this project, the result of gradient boosting was better than randomforest)
+- Hyperparameter Search: GridSearch
+- After Hyperparameter tuning, R2 Score of Gradient Boosting was 0.9380330070944691
 
 ### To Run this project
 1. Download notebook file. (seoul_bike_sharing_damand_prediction.ipynb)
