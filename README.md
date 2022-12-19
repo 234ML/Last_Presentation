@@ -19,7 +19,7 @@
 
 - Original Dataset is too big so, we preprocessed data and reduced the size of dataset
     - Our Dataset: seodaemunAndmapo.csv (72,463KB) (Total number of this dataset: 972799)
-    - ![image](https://user-images.githubusercontent.com/76611903/208368643-81ae2c38-07aa-4228-bb05-ca7c1adb7868.png)
+    ![image](https://user-images.githubusercontent.com/76611903/208368643-81ae2c38-07aa-4228-bb05-ca7c1adb7868.png)
     
 ### Models
 - RandomForest and Gradient Boosting (In this project, the result of gradient boosting was better than randomforest)
