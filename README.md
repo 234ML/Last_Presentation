@@ -19,7 +19,7 @@
 
 - Original Dataset is too big, so we preprocessed data and reduced the size of dataset
     - we dropped correlated features of weather data. and merge it to bike sharing data.
-    you can see that process in
+    you can see that process at '/original data/dataset.ipynb'
     - Our Dataset: seodaemunAndmapo.csv (72,463KB) (Total number of this dataset: 972799)
     ![image](https://user-images.githubusercontent.com/76611903/208368643-81ae2c38-07aa-4228-bb05-ca7c1adb7868.png)
     
