@@ -18,7 +18,7 @@
     - “SURFACE_ASOS_108_HR_2021_2021_2022.csv”(서울특별시 2021년도 종관기상관측자료) from 기상자료개방 포털(KMA) (https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36)
 
 - Original Dataset is too big so, we preprocessed data and reduced the size of dataset
-    - Our Dataset: seodaemunAndmap.csv (72,463KB) (Total number of this dataset: 972799)
+    - Our Dataset: seodaemunAndmapo.csv (72,463KB) (Total number of this dataset: 972799)
     - ![image](https://user-images.githubusercontent.com/76611903/208368643-81ae2c38-07aa-4228-bb05-ca7c1adb7868.png)
     
 ### Models
